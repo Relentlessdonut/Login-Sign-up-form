@@ -1,13 +1,7 @@
 Login & Sign-Up Form
 
-A modern, responsive **Login and Registration UI built with HTML, CSS, and JavaScript  
+A modern, responsive Login and Registration UI built with HTML, CSS, and JavaScript.  
 This project features a smooth toggle animation between login and sign-up forms and is designed as a front-end showcase project.
-
- Live Demo
- https://relentlessdonut.github.io/Login-Sign-up-form/
-
-
- Preview
 
  Features
 - Clean and modern UI design  
@@ -20,15 +14,17 @@ This project features a smooth toggle animation between login and sign-up forms 
  Built With
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript 
 - Font Awesome
 - Google Fonts
 
-  Project Structure
+Project Structure
 
 
-- Clicking **Register** adds an `active` class to the container
-- Clicking **Login** removes the `active` class
+- Clicking Register adds an `active` class to the container
+- Clicking Login removes the `active` class
 - CSS transitions handle the sliding animation between forms
 
-Author, Moises Mendez.
+
+1. Clone the repository:
+   git clone https://github.com/Relentlessdonut/Login-Sign-up-form.git
